@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+wandb
+train/large_data
+train/examples/cscript
+train/wandb
+*.egg-info
+**/__pycache__/
+**/.vscode/
