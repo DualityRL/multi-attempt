@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2025 NLP Group @ HKUST
+Copyright (c) 2025 DualityRL
+
+Based on modifications made by:
+- NLP Group @ HKUST
+- OpenRLHF Team (original work licensed under Apache License 2.0)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
