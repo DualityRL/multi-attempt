@@ -3,9 +3,9 @@
 <div align="center">
 
 # Learning From Failures in Multi-Attempt Reinforcement Learning
-
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://gossamer-bookcase-8a7.notion.site/Learning-From-Failures-in-Multi-Attempt-Reinforcement-Learning-1a6215521f3a80df9b14d48306a9f7a2) 
-
+[<img src="https://github.com/user-attachments/assets/ac316576-cbbb-4d47-943a-91b48ed8e89b" width="6%" height="6%" />](https://arxiv.org/abs/2503.04808)
+[<img src="https://github.com/user-attachments/assets/c919dd5f-2938-424e-84aa-e4fdd625322e" width="3.3%" height="3.3%" />](https://x.com/_akhaliq/status/1898939546718314976)
 </div>
 
 This repo contains our implementation of multi-attempt reinforcement learning for large langauge models. Instead of generating a single response per question, our proposed method allows multiple attempts, with feedback provided after incorrect responses. The multi-attempt task assigns rewards based on correctness across attempts, encouraging the model to refine its previous attempts and improve search efficiency.
